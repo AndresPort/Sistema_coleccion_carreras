@@ -1,0 +1,1 @@
+Este programa consiste en un administrador de listas que corresponden a autos,marcas y equipos, siguiendo la estructura de modelo, vista, controlador
